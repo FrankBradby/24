@@ -1,0 +1,23 @@
+Title: AI Code Generation Tutorial 3 – Flask REST API
+
+Step 1: Describe your desired API in detail.
+Example: “Create a Flask REST API in Python with routes to GET, POST, PUT, DELETE tasks. Each task has an ID and a description. Use a dictionary to store data in-memory.”
+
+Step 2: Enter this prompt into the AI code generator.
+
+Step 3: Review the generated Python code.
+It should include:
+- Flask initialization
+- Route decorators for GET/POST/PUT/DELETE
+- JSON handling
+
+Step 4: Save the output in a file, e.g., `app.py`.  
+Run it using: `python app.py`  
+Test with Postman or `curl`.
+
+Step 5: Prompt refinement.
+Example: “Add input validation to prevent empty task descriptions.”
+
+Step 6: Ask the AI to generate automated tests for the API using `unittest` or `pytest`.
+
+Goal: Master using natural language to scaffold functional backend code and iterate over requirements.
